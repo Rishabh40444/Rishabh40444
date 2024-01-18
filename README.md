@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh40444&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh40444" /> </p>
 
-- 🔭 I’m currently working on [My portfolio Website](https://github.com/Rishabh40444/rishabhsareen.github.io)
+- 🔭 I’m currently working on [My portfolio Website](https://rishabh40444.github.io/)
 
-- 📫 How to reach me **sareenrishabh1201@gmail.com**
+- 📫 Contact me on my email **sareenrishabh1201@gmail.com**
 
 - 📄 Know about my experiences [My CV](https://lcieducation-my.sharepoint.com/:b:/r/personal/rishabh_sareen_lcieducation_net/Documents/Rishabh%27s%20Resume.pdf?csf=1&web=1&e=Za1Mvt)
 
